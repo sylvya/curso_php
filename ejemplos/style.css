@@ -1,0 +1,15 @@
+body{
+	background-color: pink;
+}
+
+h1{
+	border: 1px solid red;
+	color: white;
+	font-family: verdana;
+	text-align: center
+}
+figure img{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+}
